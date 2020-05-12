@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "[pokemon.danban14.edu.mit.scratch]"
+        id          = "pokemon.danban14.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Pokemon!]</name>
+    <name>Pokemon game!(super cool!)</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/[danban14]" email="[cardamo76@gmail.com]">
+    <author href="http://scratch.mit.edu/users/"danban14" email="cardamo76@gmail.com">
         danban14
     </author>
 
